@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .search-bar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .grid-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .grid-item {
+    display: flex;
+    align-items: center; /* Center vertically */
+    justify-content: space-between; /* Space items evenly */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 15px;
+  }
+  
+  .file-name {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    flex: 1; /* Grow to fill available space */
+  }
+  
+  .download-link {
+    padding: 5px 10px;
+    background-color: #48cd6d;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .download-link:hover {
+    background-color: #37b65e;
+  }
+  
+  .logo {
+    height: 80px; /* Set the height of the logo */
+    margin-right: 10px; /* Add some margin to separate the logo from the text */
+  }
+  

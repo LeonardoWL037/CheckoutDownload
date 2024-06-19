@@ -9,6 +9,7 @@ const DownloadCheckout = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
+    document.title = 'Checkout dev Download';
     const fetchData = async () => {
       try {
         const response = await fetch('/data.xml');

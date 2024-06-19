@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CheckoutDownload/static/css/main.0962f143.css",
+    "main.js": "/CheckoutDownload/static/js/main.8ed9a022.js",
+    "static/js/453.80b68b40.chunk.js": "/CheckoutDownload/static/js/453.80b68b40.chunk.js",
+    "static/media/checkout-sankhya.png": "/CheckoutDownload/static/media/checkout-sankhya.1b872e294037373f1cd5.png",
+    "index.html": "/CheckoutDownload/index.html",
+    "main.0962f143.css.map": "/CheckoutDownload/static/css/main.0962f143.css.map",
+    "main.8ed9a022.js.map": "/CheckoutDownload/static/js/main.8ed9a022.js.map",
+    "453.80b68b40.chunk.js.map": "/CheckoutDownload/static/js/453.80b68b40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0962f143.css",
+    "static/js/main.8ed9a022.js"
+  ]
+}
